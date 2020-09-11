@@ -1,0 +1,92 @@
+body{
+    padding-top: 70px;
+}
+
+.navbar-default{
+    background-color: #e95420;;
+    border-color:#bd3e13;
+}
+
+.navbar-default .navbar-nav>li>a{
+    color: #ffffff;
+}
+
+.navbar-default .navbar-nav>.active>a, .navbar-default .navbar-nav>.active>a:focus,
+.navbar-default .navbar-nav>.active>a:hover, .navbar-default .navbar-nav>li>a:hover{
+    background-color: #ff6600;
+    color: #ffffff;
+}
+
+.navbar-default .navbar-brand{
+    color: #000000;
+}
+
+.navbar-brand img{
+    margin: 0;
+    padding: 0;
+    margin-top: -22px;
+}
+
+.footer {
+    background-color: #e95420;
+    width: 100%;
+    height: 300px;
+    text-align: center;
+}
+
+.footer-logo {
+    text-align: center;
+}
+
+.footer-logo img {
+    width: 125px;
+}
+
+.footer-contatos {
+    margin: 5px;
+}
+
+.footer-links ul li {
+    display: inline;
+    margin: 0 -2px;
+    padding: 0 -2px
+}
+
+.footer-links ul li button {
+    border: none;
+    padding: 15px;
+    background-color: #e95420;
+}
+
+.footer-links ul li button:hover {
+    background-color: #ff6600;
+}
+
+.footer-links ul li button a {
+    text-decoration: none;
+    color: #fff;
+}
+
+.footer-contatos {
+    margin: 10px;
+}
+
+.footer-contatos ul li{
+    display: inline;
+    margin: 5px;
+}
+
+.footer-contatos a img{
+    width: 35px;
+}
+
+.footer-copyright {
+    background-color: #ff6600;
+}
+
+.footer-copyright p {
+    margin: 5px;
+    padding: 10px;
+    color: #fff;
+}
+

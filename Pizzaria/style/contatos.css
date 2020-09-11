@@ -1,0 +1,63 @@
+body{
+    padding: 0;
+}
+
+.img-principal img{
+    width: 100%;
+}
+
+.img-principal h2{
+    font-size: 40px;
+    margin: 80px  20px ;
+    font-family: 'Roboto', sans-serif;
+}
+
+.img-principal h4{
+    font-family: 'Roboto', sans-serif;
+    margin: 20px;
+}
+
+.img-principal ul{
+    list-style: none;
+    margin-top: 8px;
+    margin-left: -23px;;
+}
+
+.nossa-localizacao h3{
+    font-size: 40px;
+    margin: 80px  20px ;
+    font-family: 'Roboto', sans-serif;
+    border-top: 2px solid #000000;
+    text-align: center;
+    padding-top: 40px; 
+}
+
+.pagina-mapa-imagem {
+    text-align:center; 
+    margin-top:30px;
+}
+
+.fale-conosco h3{
+    font-size: 40px;
+    margin: 80px  20px ;
+    font-family: 'Roboto', sans-serif;
+    text-align: center;
+    padding-top: 40px; 
+}
+
+.form-control{
+    width: 450px;
+}
+
+.btn-default:hover{
+    background-color:  #ff6600 ;
+ } 
+
+ .btn-default{
+     color: #9a9a9a;
+ }
+
+#formulario{
+    display: flex;
+    justify-content: center;
+}

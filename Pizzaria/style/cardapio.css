@@ -1,0 +1,21 @@
+body {
+    background-color: orange;
+}
+
+.container-fluid {
+    margin-top: 20px;
+}
+
+hr {
+    border-color: orangered;
+}
+
+.container-fluid .panel {
+    background-color: #e4e1d1;
+}
+
+.panel-text {
+    border: 5px solid orangered;
+    border-radius: 5px;
+    padding: 10px;
+}

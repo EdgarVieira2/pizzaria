@@ -1,0 +1,46 @@
+.container {
+    background-image: linear-gradient(to left,  #fa7407b6, #fa7407a4, white);
+    font-family: 'Roboto', 'sans-serif';
+    width:100%; height: 100%;
+    padding-bottom: 15px;
+}
+
+h1 {
+    font-size: 45px;
+    text-align: center;
+    border-bottom: 2px solid #000000;
+}
+
+h2 {
+    font-size: 20px;
+    
+}
+
+p {
+    font-size: 15px;
+
+}
+
+.Botão {
+    text-align: center;
+    padding-top: 10px;
+}
+
+button{
+    
+    display:inline;
+    text-align: center;
+    font-size: 15px;
+    font-family: 'Roboto', sans-serif;
+    color: white;
+    padding: 10px;
+    border: none;
+    cursor: pointer;
+    background-color: #e95420;
+    box-shadow: 0 3px 0 #bd3e13;
+}
+
+
+button:hover{
+    box-shadow: 0 3px 0 #bd3e13;
+    background-color: #bd3e13;
